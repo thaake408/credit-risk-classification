@@ -12,8 +12,12 @@ The loan_status target has two predictive variables; The first set with a count 
 
 The machine learning procedure for this analysis includes the following steps:
 
-Prepare label sets and feature DataFrame from the provided dataset.
-Segregate the dataset into training and testing subsets using the train_test_split method.
-Develop a LogisticRegression model and fit the original data into this model.
-Generate predictions on the testing dataset labels using the fitted model and testing feature data.
-Assess the model's efficacy by computing accuracy scores, confusion matrices, and a classification report.
+- Prepare label sets and feature DataFrame from the provided dataset.
+
+- Segregate the dataset into training and testing subsets using the train_test_split method.
+
+- Develop a LogisticRegression model and fit the original data into this model.
+
+- Generate predictions on the testing dataset labels using the fitted model and testing feature data.
+
+- Assess the model's efficacy by computing accuracy scores, confusion matrices, and a classification report.
