@@ -6,7 +6,7 @@ Credit risk analysis overview:
 
 The objective of this task is to develop and assess machine learning algorithms for loan risk assessment. This task employs a dataset containing historical loan transactions from a peer-to-peer lending platform to construct a model capable of identifying borrower creditworthiness and categorizing credit risk forecasts.
 
-The focal financial metric in the dataset is "loan status". Key financial attributes utilized to anticipate loan status include loan amount, interest rate, borrower income, debt-to-income ratio, account count, derogatory marks, and total debt.
+The focal financial metric in the dataset is loan_status. Key financial attributes utilized to anticipate loan status include loan amount, interest rate, borrower income, debt-to-income ratio, account count, derogatory marks, and total debt.
 
 The loan_status target has two predictive variables; The first set with a count of 77,036 which signifies healthy loans (assigned '0'), and a second set with a count of 2,500 that represents loans at high risk (assigned '1').
 
