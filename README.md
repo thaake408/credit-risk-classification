@@ -1,5 +1,5 @@
 # credit-risk-classification
-Module 20
+**Module 20**
 
 
 Credit risk analysis overview:
